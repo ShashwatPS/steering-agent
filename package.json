@@ -1,0 +1,26 @@
+{
+  "name": "steering-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShashwatPS/steering-agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ShashwatPS/steering-agent/issues"
+  },
+  "homepage": "https://github.com/ShashwatPS/steering-agent#readme",
+  "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.51",
+    "ai": "^6.0.106",
+    "typescript": "^5.9.3"
+  }
+}
